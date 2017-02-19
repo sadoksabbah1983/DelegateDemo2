@@ -14,11 +14,7 @@ namespace DelegateDemo2.Tests
         [TestMethod()]
         public void AddNumTest()
         {
-            int x = 5;
-            int y = 10;
-            int expected = 15;
-            int actual = 15;
-            Assert.AreEqual(expected,actual);
+           
         }
 
         [TestMethod()]
