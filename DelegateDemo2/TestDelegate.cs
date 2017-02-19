@@ -39,7 +39,7 @@ namespace DelegateDemo2
             ps("Hello word");
         }
     }
-    class TestDelegate
+    public class TestDelegate
     {
         public static int n = 10;
 
